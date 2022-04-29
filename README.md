@@ -62,14 +62,9 @@ One has a common knowledge, or an understanding of the basic techniques, or conc
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipwroblewski&show_icons=true&theme=gotham" alt="filipwroblewski">
-</p>
-<p>
-  <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipwroblewski&layout=compact&show_title=1&card_width=400&theme=gotham" alt="Top language used in my repos" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipwroblewski&show_icons=true&theme=gotham" alt="filipwroblewski"><img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipwroblewski&layout=compact&show_title=1&card_width=400&theme=gotham" alt="Top language used in my repos" />
 </div>
-</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
