@@ -36,13 +36,15 @@
 
 ![Python](https://img.shields.io/badge/Open-Repositories-3b3b3b?&logo=GitHub)
 
-<div id="main-projects"></div>
+<div id="main-projects">
   <ul>
     <li><a href="https://github.com/filipwroblewski/Instagram-bot-4F4" target="_blank">Instagram Bot 4F4</a></li>
     <li><a href="https://github.com/filipwroblewski/ScoopIt-bot" target="_blank">ScoopIt Bot</a></li>
     <li><a href="https://github.com/filipwroblewski/TimeTracker" target="_blank">Time Tracker</a></li>
   </ul>
 
+  <p align="right">(<a href="#top">back to top</a>)</p>
+</div>
 <!-- **Expert**
 One is a known expert in this area. They can provide guidance, troubleshoot, and answer questions related to this area of expertise, and the field where the skill is used.
 
