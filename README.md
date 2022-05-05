@@ -41,6 +41,12 @@
     <li><a href="https://github.com/filipwroblewski/Instagram-bot-4F4" target="_blank">Instagram Bot 4F4</a></li>
     <li><a href="https://github.com/filipwroblewski/ScoopIt-bot" target="_blank">ScoopIt Bot</a></li>
     <li><a href="https://github.com/filipwroblewski/TimeTracker" target="_blank">Time Tracker</a></li>
+    <li><a href="https://github.com/filipwroblewski/projects/tree/main/margonem%20daily%20quests" target="_blank">Game - Daily quests</a></li>
+    <li><a href="https://github.com/filipwroblewski/word-search" target="_blank">Word search finder</a></li>
+    <li><a href="https://github.com/filipwroblewski/wsb/blob/main/algorithms/bst%20and%20sll.cs" target="_blank">Data structures - BST, SLL</a></li>
+    <li><a href="https://github.com/filipwroblewski/wsb/blob/main/algorithms/sorting%20algorithms.cs" target="_blank">Sorting alghoritms</a></li>
+    <li><a href="https://github.com/filipwroblewski/wsb/blob/main/algorithms/Graphs.cs" target="_blank">Data structures – Graph</a></li>
+    <li><a href="https://github.com/filipwroblewski/wsb/tree/main/object-oriented%20programming/biblioteka%20-%20consol" target="_blank">Library</a></li>
   </ul>
 
   <p align="right">(<a href="#top">back to top</a>)</p>
