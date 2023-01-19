@@ -50,6 +50,7 @@
     <li><a href="https://github.com/filipwroblewski/data-werehouse-project-1" target="_blank">Data werehouse</a></li>
     <li><a href="https://github.com/filipwroblewski/database-price-update---e-commerce-shop" target="_blank">Database price update - e-commerce shop</a></li>
     <li><a href="https://github.com/filipwroblewski/testing-tryton-website" target="_blank">Testing Tryton Website</a></li>
+    <li><a href="https://github.com/filipwroblewski/oto_sadzonki" target="_blank">Oto sadzonki</a></li>
   </ul>
 
   <p align="right">(<a href="#top">back to top</a>)</p>
