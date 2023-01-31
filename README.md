@@ -51,7 +51,7 @@
     <li><a href="https://github.com/filipwroblewski/database-price-update---e-commerce-shop" target="_blank">Database price update - e-commerce shop</a></li>
     <li><a href="https://github.com/filipwroblewski/testing-tryton-website" target="_blank">Testing Tryton Website</a></li>
     <li><a href="https://github.com/filipwroblewski/oto_sadzonki" target="_blank">Oto sadzonki</a></li>
-    <li><a href="https://github.com/filipwroblewski/rsa/blob/main/main.py" target="_blank">RSA Encription</a></li>
+    <li><a href="https://github.com/filipwroblewski/rsa" target="_blank">RSA Encription</a></li>
   </ul>
 
   <p align="right">(<a href="#top">back to top</a>)</p>
