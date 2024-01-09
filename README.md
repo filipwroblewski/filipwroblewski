@@ -1,94 +1,78 @@
-<div id="top"></div>
+# 👋 Hi, I'm Filip
 
-<div id="header" align="center">
-  <h3>Hi there 👋</h3>
-</div>
+[YouTube](https://www.youtube.com/channel/UC8y0uJpmXE1rLrn6gYq8cyQ) • [Twitter](https://twitter.com/wrobl_ewski)
 
-<br>
+Passionate [Your Profession] crafting digital experiences with code.
 
-<div id="badges" align="center">
-  <a href="https://twitter.com/wrobl_ewski">
-    <img src="https://img.shields.io/twitter/follow/wrobl_ewski.svg?style=social">
-  </a>
-  <a href="https://github.com/filipwroblewski">
-    <img src="https://img.shields.io/github/followers/filipwroblewski.svg?style=social">
-  </a>
-  <a href="https://www.youtube.com/channel/UC8y0uJpmXE1rLrn6gYq8cyQ">
-    <img src="https://img.shields.io/badge/YouTube-link-red?&logo=YouTube">
-  </a>
-</div>
+## 🚀 Featured Projects
 
-<br>
+### Python Projects
+- [**Bot Instagram - F4F**](https://github.com/filipwroblewski/Instagram-bot-4F4): Using programming to control keyboard and mouse. Project was created to simulate user activities on Instagram. Tools: Python, Pyautogui, Time
+- [**Bot ScoopIt**](https://github.com/filipwroblewski/ScoopIt-bot): Automation of activities on the website, and addition of posts on social media app - ScoopIt. 
+Tools: Python, Selenium, Webdriver, Pyperclip, Time, OOP
+- [**Game - Daily quests**](https://github.com/filipwroblewski/projects/tree/main/margonem%20daily%20quests): Using programming to control keyboard and mouse. Project simulating user activities in an MMORPG game Margonem. 
+Tools: Python, Pyautogui, Time
+- [**Word search finder**](https://github.com/filipwroblewski/word-search): A project in object-oriented programming, tested using Unittest. Finds words in inserted crosswords. 
+Tools: Python, Pyautogui, Unittest, OOP
+- [**Time Tracker**](https://github.com/filipwroblewski/TimeTracker): A project meant for increasing one’s productivity by tracking the time spent in front of a computer and reporting the time in a json file. 
+Tools: Python, Time, Datetime, Win32gui, Json, Os
+- [**Database price update - e-commerce shop**](https://github.com/filipwroblewski/database-price-update---e-commerce-shop): A project meant for updating prices of products in database using Api and creating report of the database table. Also tracking 
+information in log file. 
+Tools: Python, Logging, Sys, Mysql, Xlsxwriter, Requests
+- [**Automatically testing website**](https://github.com/filipwroblewski/testing-tryton-website): Using selenium to test website by automate processes. 
+Tools: Python, Selenium, Unittest, Re
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#main-projects">Main Projects</a></li>
-    <li><a href="#stats">Stats</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+### SQL
+- [**Data warehouse - employment in the labor market**](https://github.com/filipwroblewski/data-warehouse-project-1): A project meant for collecting and analyze data on employment in the labor market using data warehouse. Data are given with dirty 
+csv file, plan of data warehouse – star shape diagram, implementation of ETL processes, reports of results from data warehouse. 
+Tools: PostgreSQL, PL/pgSQL, Pentaho Data Integration, Pentaho Report Design
 
-<br>
+### C#
+- [**SeedlingManagementSystem Client-Server**](https://github.com/filipwroblewski/SeedlingManagementSystem_Client-Server): A project which implements of online shop based on console app.
+- [**Data structures - BST, SLL**](https://github.com/filipwroblewski/wsb/blob/main/algorithms/bst%20and%20sll.cs): A project which implements data structure of a binary search tree, and a single linked list
+- [**Sorting algorithms**](https://github.com/filipwroblewski/wsb/blob/main/algorithms/sorting%20algorithms.cs): A project which realizes processes of sorting algorithms: by selection, insertion, quick, merge, Shell’s method of sorting.
+- [**Data structures – Graph**](https://github.com/filipwroblewski/wsb/blob/main/algorithms/Graphs.cs): A project enabling the user to demonstrate data in form of a graph; with additional functionality, and graph sorting algorithms.
+- [**Library**](https://github.com/filipwroblewski/wsb/tree/main/object-oriented%20programming/biblioteka%20-%20consol): A project which shows a system of managing library withe a use of programming.
 
-## Main Projects
+### PHP
+- [**Oto sadzonki (seedling management system)**](https://github.com/filipwroblewski/oto_sadzonki): A project involving management of seedlings system with implemented functionalities such as: user authentication, passwords 
+encryption (using Argon), sessions, payments (using PayPal) and account email notifications, and connection to a database (MySQL).
 
-![Python](https://img.shields.io/badge/Open-Repositories-3b3b3b?&logo=GitHub)
+### TypeScript
+- [**MediBankSecureCach**](https://github.com/filipwroblewski/MediBankSecureCash): A project involving simulation of a building security system allowing access to specific rooms by gates with cards. Additionally, 
+containing implemented functionalities related to object-oriented-programming and design patterns.
 
-<div id="main-projects">
-  <ul>
-    <li><a href="https://github.com/filipwroblewski/Instagram-bot-4F4" target="_blank">Instagram Bot 4F4</a></li>
-    <li><a href="https://github.com/filipwroblewski/ScoopIt-bot" target="_blank">ScoopIt Bot</a></li>
-    <li><a href="https://github.com/filipwroblewski/TimeTracker" target="_blank">Time Tracker</a></li>
-    <li><a href="https://github.com/filipwroblewski/projects/tree/main/margonem%20daily%20quests" target="_blank">Game - Daily quests</a></li>
-    <li><a href="https://github.com/filipwroblewski/word-search" target="_blank">Word search finder</a></li>
-    <li><a href="https://github.com/filipwroblewski/wsb/blob/main/algorithms/bst%20and%20sll.cs" target="_blank">Data structures - BST, SLL</a></li>
-    <li><a href="https://github.com/filipwroblewski/wsb/blob/main/algorithms/sorting%20algorithms.cs" target="_blank">Sorting alghoritms</a></li>
-    <li><a href="https://github.com/filipwroblewski/wsb/blob/main/algorithms/Graphs.cs" target="_blank">Data structures – Graph</a></li>
-    <li><a href="https://github.com/filipwroblewski/wsb/tree/main/object-oriented%20programming/biblioteka%20-%20consol" target="_blank">Library</a></li>
-    <li><a href="https://github.com/filipwroblewski/data-werehouse-project-1" target="_blank">Data werehouse</a></li>
-    <li><a href="https://github.com/filipwroblewski/database-price-update---e-commerce-shop" target="_blank">Database price update - e-commerce shop</a></li>
-    <li><a href="https://github.com/filipwroblewski/testing-tryton-website" target="_blank">Testing Tryton Website</a></li>
-    <li><a href="https://github.com/filipwroblewski/oto_sadzonki" target="_blank">Oto sadzonki</a></li>
-    <li><a href="https://github.com/filipwroblewski/rsa" target="_blank">RSA Encription</a></li>
-  </ul>
+### JavaScript (React.js)
+- [**SayMeQuizzApp**](https://github.com/filipwroblewski/SayMeQuizzApp): A project involving a simulation of a live TV show, featuring a quiz game with other players. Built as single-user and single-page
+application, to present on live-stream platforms, also allowing to create teams, import and export questions, and follow quiz game 
+concepts.
 
-  <p align="right">(<a href="#top">back to top</a>)</p>
-</div>
-<!-- **Expert**
-One is a known expert in this area. They can provide guidance, troubleshoot, and answer questions related to this area of expertise, and the field where the skill is used.
+### Unity
+- [**Unity 2D Platform Game**](https://youtu.be/v04eeXcSThM): A 2D game comprised of an environment with a player and such functionalities as: player control, animations, item collection, 
+information display, different levels, both static and dynamic player-trapping systems, and sound effects.
+- [**Unity 3D Game**](https://youtu.be/CZXDpp8wKlo): A 3D game comprised of a terrain with a player and enemies. The project includes such functionalities as: various types of object 
+control in game, direct and area effects of abilities, ability to defeat enemies, and player-detection by the enemies.
 
-**Advanced**
-One can perform the actions associated with this skill with no assistance. They are recognized within a team as "a person to ask" when difficult questions arise regarding this skill.
+## 💻 Skills
 
-**Intermediate**
-One is able to successfully complete tasks in this competency. Assistance from an expert occasionally may be required; hovever, they can usually perform the skill independently.
+- **Languages:** Python, C#, JavaScript, TypeScript, PHP, PL/pgSQL
+- **Frameworks:** Django, Bootstrap, React.js, Laravel, Yii 2
+- **Databases:** MySQL, PostgrSQL, SQL, SQLite, Data warehouse
+- **Tools:** Git, Docker, AWS, Unity, Figma, Excel
 
-**Novice**
-One has the level of experience gained in a classroom, and/or experimental scenarios, or as an intern. They may seek assistance when performing this skill.
+## 📊 GitHub Stats
 
-**Basic**
-One has a common knowledge, or an understanding of the basic techniques, or concepts associated with this skill. -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&include_all_commits=true)
 
-<!-- STATS -->
+## 🌟 Top Languages
 
-## Stats
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&include_all_commits=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipwroblewski&show_icons=true&theme=gotham" alt="filipwroblewski">
-</div>
+## 📬 Let's Connect!
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipwroblewski&layout=compact&show_title=1&card_width=400&theme=gotham" alt="Top language used in my repos" />
-</div>
+I'm always open to interesting projects and collaborations. Feel free to reach out:
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+- 🐦 [Twitter](https://twitter.com/wrobl_ewski)
+- 🎬 [YouTube](https://www.youtube.com/channel/UC8y0uJpmXE1rLrn6gYq8cyQ)
 
-<!-- CONTACT -->
-
-## Contact
-
-<a href="https://twitter.com/wrobl_ewski" ><img src="https://img.shields.io/twitter/follow/wrobl_ewski.svg?style=social"></a>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Happy coding! 🚀
