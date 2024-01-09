@@ -60,11 +60,11 @@ control in game, direct and area effects of abilities, ability to defeat enemies
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&hide_title=true&include_all_commits=true&hide_rank=true&line_height=24)
 
 ## 🌟 Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&include_all_commits=true)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true&include_all_commits=true&line_height=24)
 
 ## 📬 Let's Connect!
 
