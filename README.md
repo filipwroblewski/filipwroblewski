@@ -4,7 +4,7 @@
 
 ## 🚀 Featured Projects
 
-### Python Projects
+### Python
 - [**Bot Instagram - F4F**](https://github.com/filipwroblewski/Instagram-bot-4F4): Using programming to control keyboard and mouse. Project was created to simulate user activities on Instagram. Tools: Python, Pyautogui, Time
 - [**Bot ScoopIt**](https://github.com/filipwroblewski/ScoopIt-bot): Automation of activities on the website, and addition of posts on social media app - ScoopIt. 
 Tools: Python, Selenium, Webdriver, Pyperclip, Time, OOP
@@ -57,14 +57,6 @@ control in game, direct and area effects of abilities, ability to defeat enemies
 - **Frameworks:** Django, Bootstrap, React.js, Laravel, Yii 2
 - **Databases:** MySQL, PostgrSQL, SQL, SQLite, Data warehouse
 - **Tools:** Git, Docker, AWS, Unity, Figma, Excel
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&hide_title=true&include_all_commits=true&hide_rank=true&line_height=24)
-
-## 🌟 Top Languages
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true&include_all_commits=true&line_height=24)
 
 ## 📬 Let's Connect!
 
