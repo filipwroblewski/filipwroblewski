@@ -2,8 +2,6 @@
 
 [YouTube](https://www.youtube.com/channel/UC8y0uJpmXE1rLrn6gYq8cyQ) • [Twitter](https://twitter.com/wrobl_ewski)
 
-Passionate [Your Profession] crafting digital experiences with code.
-
 ## 🚀 Featured Projects
 
 ### Python Projects
