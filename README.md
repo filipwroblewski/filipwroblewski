@@ -4,6 +4,10 @@
 
 ## 🚀 Featured Projects
 
+### Python (Django REST Framework)
+
+- [**Hydroponics management**](https://github.com/filipwroblewski/django-hydroponics-management): 🌱💧 A Django-based application to manage hydroponic systems with full CRUD capabilities, sensor data management, and user authentication, using both API and admin panel.
+
 ### Python (Django)
 
 - [**WorkoutApp**](https://github.com/filipwroblewski/WorkoutApp): 👨‍🎓 Bachelor of Engineering title. App created using django and PayPal API.
@@ -81,4 +85,4 @@ I'm always open to interesting projects and collaborations. Feel free to reach o
 - 🐦 [Twitter](https://twitter.com/wrobl_ewski)
 - 🎬 [YouTube](https://www.youtube.com/channel/UC8y0uJpmXE1rLrn6gYq8cyQ)
 
-Happy coding! 🚀
+🚀
