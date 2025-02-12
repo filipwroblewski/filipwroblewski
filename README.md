@@ -13,7 +13,7 @@
 
 ### 💻 Backend
 
-- [**Hydroponics management**](https://github.com/filipwroblewski/django-hydroponics-management): 🌱💧 A Django-based application to manage hydroponic systems with full CRUD capabilities, sensor data management, and user authentication, using both API and admin panel.
+- [**Django API using PostgreSQL**](https://github.com/filipwroblewski/django-hydroponics-management): 🌱💧 A Django-based application, with PostgreSQL database access via API using Django REST framework and admin dashboard.
 
   ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=32CD32&style=flat-square)
   ![Django](https://img.shields.io/badge/Django-333333?logo=django&logoColor=32CD32&style=flat-square)
@@ -31,7 +31,7 @@
 
 ### 🌐 Full Stack
 
-- [**WorkoutApp**](https://github.com/filipwroblewski/WorkoutApp): 👨‍🎓 Bachelor of Engineering title. App created using django and PayPal API.
+- [**Django App with PayPal API using SQLite**](https://github.com/filipwroblewski/WorkoutApp): 👨‍🎓 A Django-based application with admin panel, enable users’ authorization to perform CRUD operations on SQLite database. App enables payments using PayPal.
 
   ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=32CD32&style=flat-square)
   ![Django](https://img.shields.io/badge/Django-333333?logo=django&logoColor=32CD32&style=flat-square)
@@ -46,7 +46,7 @@
   ![PayPal API](https://img.shields.io/badge/PayPal%20API-333333?logo=paypal&logoColor=32CD32&style=flat-square)
   ![Python Pillow](https://img.shields.io/badge/Python%20Pillow-333333?logo=python&logoColor=32CD32&style=flat-square)
 
-- [**Oto sadzonki (seedling management system)**](https://github.com/filipwroblewski/oto_sadzonki): A project involving management of seedlings system with implemented functionalities such as: user authentication, passwords encryption (using Argon), sessions, payments (using PayPal) and account email notifications, and connection to a database (MySQL).
+- [**PHP App with PayPal API using MySQL**](https://github.com/filipwroblewski/oto_sadzonki): A PHP-based online shop app with users’ authorization to perform CRUD operations on MySQL database. App uses e-mail notifications, AdminLTE template, PayPal payments. 
 
   ![PHP](https://img.shields.io/badge/PHP-333333?logo=php&logoColor=32CD32&style=flat-square)
   ![MySQL Database](https://img.shields.io/badge/MySQL%20Database-333333?logo=mysql&logoColor=32CD32&style=flat-square)
@@ -71,7 +71,7 @@ containing implemented functionalities related to object-oriented-programming an
 
 ### 🎨 Frontend
 
-- [**SayMeQuizzApp**](https://github.com/filipwroblewski/SayMeQuizzApp): A project involving a simulation of a live TV show, featuring a quiz game with other players. Built as single-user and single-page application, to present on live-stream platforms, also allowing to create teams, import and export questions, and follow quiz game concepts.
+- [**React.js Single-Page App using both Memory & JSON**](https://github.com/filipwroblewski/SayMeQuizzApp): A React.js-based real time app enables performing CRUD operations and full control for one user. Data storage in pc’s and browser’s memory. Enables import and export using JSON file format.
 
   ![ReactJS](https://img.shields.io/badge/ReactJS-333333?logo=react&logoColor=32CD32&style=flat-square)
   ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=32CD32&style=flat-square)
